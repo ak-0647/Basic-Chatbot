@@ -1,12 +1,4 @@
-echo "# Basic-Chatbot" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ak-0647/Basic-Chatbot.git
-git push -u origin main
-
-#Rule Based AI Python ChatBot 
+#Python ChatBot 
 
 name= input("Welcome, enter your name : ")
 
